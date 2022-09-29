@@ -1,0 +1,73 @@
+.main-heading h1
+{
+    display: flex;
+    color: rgb(247, 231, 231);
+    
+   
+    align-items: center;
+    justify-content: center;
+    height: 200x;
+}
+body{
+    background: rgb(68, 68, 223)
+    
+}
+.container
+{
+    margin: 20px;
+    display: flex;
+  
+}
+
+.div{
+
+   
+  
+    display: flex;
+    margin: 12px ;
+   justify-items: end;
+    margin: auto;
+ 
+}
+    
+    
+
+
+.button1
+{
+    padding: 18px;
+    background-color: yellow;
+   
+    text-size-adjust: 12px;
+    font-size: large;
+    border-radius: 12px;
+
+}
+
+.div2
+{
+   
+   
+    display: flex;
+    margin: auto ;
+   padding-left: 100px;
+}
+.button2
+{
+    padding: 18px;
+    background-color: yellow;
+    
+    text-size-adjust: 12px;
+    font-size: large;
+    border-radius: 12px
+   
+}
+
+.image
+{
+ 
+    width: 150px;
+    display: flex;
+    padding: 100px;
+
+}
